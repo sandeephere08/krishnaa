@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","its_innocent_boy_2926")
+OWNER_USERNAME = getenv("OWNER_USERNAME","its_deva_heree")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NAKSH_X_MUSICBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Sitaramusic_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "NAKSH")
+BOT_NAME = getenv("BOT_NAME" , "𝐒𝐈𝐓𝐀𝐑𝐀")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Naksh_x_assistant")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Sitara_assistant")
 # ---------------------------------------------------------
 
 
@@ -42,7 +42,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7507408570))
+OWNER_ID = int(getenv("OWNER_ID", 7538572906))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -58,9 +58,9 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 SOURCE = getenv("SOURCE", "https://github.com/hide-sudo/DEVACLONE")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/innocypapatop/VIP_INNOCENT_MUSIC",
+    "https://github.com/hide-sudo/DEVACLONE",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "INNOCENT")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )
@@ -73,9 +73,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TFW_UPDATES")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TFW_BOTS_SUPPORT")
-CHAT = getenv("CHAT", "https://t.me/TFW_CHATTING_CLUB")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Matlabi_Duniyah")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Botts_Supports")
+CHAT = getenv("CHAT", "https://t.me/+MG2n8W4ZpuQwN2Q1")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
