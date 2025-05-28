@@ -6,7 +6,7 @@ from VIP_INNOCENT import app
 
 #--------------------------
 
-MUST_JOIN = "its_deva_here"
+MUST_JOIN = "SITARA_SUPPORT"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
