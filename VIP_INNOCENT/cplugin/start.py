@@ -124,6 +124,7 @@ async def start_pm(client, message: Message, _):
             InlineKeyboardButton(text="✦ υρ∂αтєѕ ✦", url=C_SUPPORT_CHANNEL),
         ],
         [
+            InlineKeyboardButton(text="🛍️ ᴅᴇᴀʟs 🛍️", url="https://t.me/TFW_Deals"),
             InlineKeyboardButton(text="🍁 нєℓρ αи∂ ¢σммαи∂ѕ 🍁", callback_data="settings_back_helper"),
         ],
     ]
