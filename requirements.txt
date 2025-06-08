@@ -29,7 +29,7 @@ lexica-api
 lyricsgenius
 motor==3.1.1
 MukeshAPI
-numpy<2.0.0
+numpy<3.0.0
 ntgcalls==1.1.2
 openai==0.28.0
 opencv-python
