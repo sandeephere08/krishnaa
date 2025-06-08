@@ -74,5 +74,5 @@ youtube-search-python
 flask
 ytmusicapi==0.23.0
 pytgcalls==3.0.0.dev24
-cryptg==0.4.0
+cryptg==0.5.0
 pymongo==4.1.1
