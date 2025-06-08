@@ -27,7 +27,7 @@ img2pdf
 instaloader
 lexica-api
 lyricsgenius
-motor==3.1.2
+motor==3.1.1
 MukeshAPI
 numpy<2.0.0
 ntgcalls==1.1.2
@@ -75,3 +75,4 @@ flask
 ytmusicapi==0.23.0
 pytgcalls==3.0.0.dev24
 cryptg==0.4.0
+pymongo==4.1.1
