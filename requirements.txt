@@ -64,7 +64,7 @@ SpeechRecognition
 spotipy
 sqlalchemy==1.4.46
 telegraph==2.2.0
-telethon==1.36.0
+telethon==1.40.0
 tgcrypto==1.2.5
 unidecode
 wget
