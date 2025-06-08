@@ -68,7 +68,7 @@ telethon==1.36.0
 tgcrypto==1.2.5
 unidecode
 wget
-yt-dlp==2023.3.4
+yt-dlp==2025.5.22
 youtube-search
 youtube-search-python
 flask
