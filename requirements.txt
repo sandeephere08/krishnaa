@@ -34,7 +34,7 @@ ntgcalls==1.1.2
 openai==0.28.0
 opencv-python
 pillow==9.5.0
-psutil==5.9.5
+psutil==7.0.0
 pickledb
 pornhub-api==0.3.0
 pycountry
