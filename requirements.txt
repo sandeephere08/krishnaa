@@ -72,7 +72,7 @@ yt-dlp==2023.3.4
 youtube-search
 youtube-search-python
 flask
-ytmusicapi==0.23.0
+ytmusicapi==1.10.3
 pytgcalls==3.0.0.dev24
 cryptg==0.4.0
 pymongo==4.1.1
