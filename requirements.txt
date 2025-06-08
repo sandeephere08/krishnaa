@@ -47,7 +47,7 @@ git+https://github.com/KurimuzonAkuma/pyrogram.git
 python-dotenv==1.0.0
 python-telegram-bot==21.1.1
 python-whois
-pyrate-limiter==2.10.0
+pyrate-limiter==3.7.1
 pyshorteners
 pyttsx3
 pytz
