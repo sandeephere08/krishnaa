@@ -75,4 +75,4 @@ flask
 ytmusicapi==0.23.0
 pytgcalls==3.0.0.dev24
 cryptg==0.4.0
-pymongo==4.1.1
+pymongo==4.13.1
